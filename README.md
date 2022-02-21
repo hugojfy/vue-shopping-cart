@@ -1,4 +1,4 @@
-# vue-shop-chart
+# vue-shopping-chart
 
 ## Project setup
 ```
