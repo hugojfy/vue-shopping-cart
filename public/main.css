@@ -1,0 +1,13 @@
+/*
+    ----Variables----
+*/
+:root{
+    --primary: #0d6efd;
+    --background-grey: #cfd1cd;
+
+}
+
+
+body{
+    background-color: var(--background-grey);
+}
